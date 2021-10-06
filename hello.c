@@ -6,7 +6,7 @@ for Hello
 #include<stdio.h>
 int main()
 {
-    printf("hello & Welcome to c programming");
+    printf("hello & Welcome to java programming\n");
 
 return 0;
 }
